@@ -1,2 +1,2 @@
 # Python-Port-Scanner
-Basic Port Scanner in Python
+Basic Port Scanner made in Python
